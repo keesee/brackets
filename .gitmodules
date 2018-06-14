@@ -28,3 +28,6 @@
 [submodule "src/thirdparty/jszip"]
 	path = src/thirdparty/jszip
 	url = https://github.com/Stuk/jszip.git
+[submodule "src/thirdparty/CodeMirror"]	
+	path = src/thirdparty/CodeMirror	
+	url = https://github.com/adobe/CodeMirror2.git
